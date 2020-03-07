@@ -14,6 +14,7 @@ var.each { |i|
 
 #### Reverse Array
 Input: ["h","e","l","l","o"]
+
 Output: ["o","l","l","e","h"]
 ```
 def reverse_string(s)
